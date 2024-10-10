@@ -1,0 +1,51 @@
+﻿{
+  "applicationCaption": "Service desk",
+  "applicationTitle": "Service desk",
+  "items": [
+    {
+      "link": null,
+      "menuName": "service-desk",
+      "caption": "Service Desk",
+      "title": "Service Desk",
+      "children": [
+        {
+          "link": "i-i-s-service-desk-incident-l",
+          "menuName": null,
+          "caption": "Incident",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": null,
+          "menuName": "справочники",
+          "caption": "Справочники",
+          "title": "Справочники",
+          "children": [
+            {
+              "link": "i-i-s-service-desk-responsible-l",
+              "menuName": null,
+              "caption": "Ответственные",
+              "title": "Responsible",
+              "children": null
+            },
+            {
+              "link": "i-i-s-service-desk-counterparty-l",
+              "menuName": null,
+              "caption": "Контрагенты",
+              "title": "Counterparty",
+              "children": null
+            },
+            {
+              "link": "i-i-s-service-desk-postion-l",
+              "menuName": null,
+              "caption": "Должности",
+              "title": "Postion",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

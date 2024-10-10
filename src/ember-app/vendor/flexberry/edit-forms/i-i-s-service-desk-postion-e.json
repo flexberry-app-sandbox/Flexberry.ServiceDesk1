@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Postion",
+  "name": "IISServiceDeskPostionE",
+  "className": "PostionE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-service-desk-postion",
+      "modelProjection": "PostionE"
+    }
+  ]
+}

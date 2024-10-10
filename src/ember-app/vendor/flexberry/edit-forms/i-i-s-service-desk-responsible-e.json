@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Postion",
+      "projection": "PostionL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Responsible",
+  "name": "IISServiceDeskResponsibleE",
+  "className": "ResponsibleE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-service-desk-responsible",
+      "modelProjection": "ResponsibleE"
+    }
+  ]
+}

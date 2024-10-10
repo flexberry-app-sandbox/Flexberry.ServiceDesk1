@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-service-desk-incident-e",
+  "editForm": "i-i-s-service-desk-incident-e",
+  "external": false,
+  "caption": "Incident",
+  "name": "IISServiceDeskIncidentL",
+  "className": "IncidentL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-service-desk-incident",
+      "modelProjection": "IncidentL"
+    }
+  ]
+}

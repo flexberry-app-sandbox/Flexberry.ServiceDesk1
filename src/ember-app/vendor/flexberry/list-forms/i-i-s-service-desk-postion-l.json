@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-service-desk-postion-e",
+  "editForm": "i-i-s-service-desk-postion-e",
+  "external": false,
+  "caption": "Postion",
+  "name": "IISServiceDeskPostionL",
+  "className": "PostionL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-service-desk-postion",
+      "modelProjection": "PostionL"
+    }
+  ]
+}

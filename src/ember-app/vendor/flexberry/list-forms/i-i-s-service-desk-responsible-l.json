@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-service-desk-responsible-e",
+  "editForm": "i-i-s-service-desk-responsible-e",
+  "external": false,
+  "caption": "Responsible",
+  "name": "IISServiceDeskResponsibleL",
+  "className": "ResponsibleL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-service-desk-responsible",
+      "modelProjection": "ResponsibleL"
+    }
+  ]
+}
